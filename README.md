@@ -1,41 +1,42 @@
-📝 Social Connect – Tarmeez Academy API Client
-This is a front-end web application built using HTML, CSS, JavaScript, and Bootstrap. The app connects to the Tarmeez Academy API and provides a simple social media-like interface where users can register, log in, create posts, comment on posts, and view public profiles.
+🌐 Social Connect
+A Simple Front-End Client for Tarmeez Academy API
 
-🌟 Features
-User Authentication
+📖 Overview
+Social Connect is a responsive front-end web application built using HTML, CSS, JavaScript, and Bootstrap. It interacts with the Tarmeez Academy API to provide core social media functionality such as posting content, commenting, user registration, login, and profile viewing.
 
-Register a new account
+🚀 Features
+🔐 Authentication
+User registration
 
-Log in and receive an authentication token
+Login with token-based authentication
 
-Log out securely
+Logout functionality
 
-Post System
+📝 Post Management
+View all posts with author info and comment count
 
-Browse all posts with author info and comment count
+Create new posts (with optional image)
 
-Create a new post with optional image upload
+Comment on existing posts
 
-Comment on other users’ posts
+👤 User Profiles
+View public profiles of other users
 
-User Profiles
+Display user's posts and account information
 
-View public profiles of any user
+💻 Front-End Design
+Clean and modern interface using Bootstrap
 
-See a user’s posts and details
+Fully responsive and mobile-friendly layout
 
-Responsive Design
+🛠️ Built With
+HTML – Page structure
 
-Styled using Bootstrap for mobile-friendly and modern UI
+CSS – Custom styles
 
-💡 Technologies Used
-HTML – Markup structure
+JavaScript – Functionality and API interaction
 
-CSS – Custom styling
+Bootstrap – Responsive UI components
 
-JavaScript – API interactions and dynamic behavior
-
-Bootstrap – Responsive design and pre-built UI components
-
-📌 Project Goal
-The main goal of this project is to demonstrate integration with a public REST API using vanilla JavaScript and to build a simple, functional social interface with real user data and authentication.
+🎯 Purpose
+This project serves as a demonstration of API integration using vanilla JavaScript. It simulates a basic social media experience, focusing on user interaction, data fetching, and responsive design.
