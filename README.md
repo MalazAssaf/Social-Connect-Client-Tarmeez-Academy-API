@@ -1,42 +1,40 @@
-🌐 Social Connect
-A Simple Front-End Client for Tarmeez Academy API
+# 🌐 Social Connect  
+*A Simple Front-End Client for Tarmeez Academy API*
 
-📖 Overview
-Social Connect is a responsive front-end web application built using HTML, CSS, JavaScript, and Bootstrap. It interacts with the Tarmeez Academy API to provide core social media functionality such as posting content, commenting, user registration, login, and profile viewing.
+## 📖 Overview
 
-🚀 Features
-🔐 Authentication
-User registration
+**Social Connect** is a responsive front-end web application built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
+It connects to the [Tarmeez Academy API](https://tarmeezacademy.com/api/v1) and allows users to:
 
-Login with token-based authentication
+- Register and log in  
+- Create and view posts  
+- Comment on others' posts  
+- View user profiles  
 
-Logout functionality
+## 🚀 Features
 
-📝 Post Management
-View all posts with author info and comment count
+### 🔐 Authentication
+- User registration  
+- Login with token-based authentication  
+- Logout functionality  
 
-Create new posts (with optional image)
+### 📝 Post Management
+- View all posts with author info and comment count  
+- Create new posts (with optional image)  
+- Comment on existing posts  
 
-Comment on existing posts
+### 👤 User Profiles
+- View public profiles of other users  
+- Display a user’s posts and details  
 
-👤 User Profiles
-View public profiles of other users
+## 💻 Built With
 
-Display user's posts and account information
+- **HTML** – Page structure  
+- **CSS** – Custom styling  
+- **JavaScript** – API interaction and logic  
+- **Bootstrap** – Responsive UI framework  
 
-💻 Front-End Design
-Clean and modern interface using Bootstrap
+## 🎯 Purpose
 
-Fully responsive and mobile-friendly layout
-
-🛠️ Built With
-HTML – Page structure
-
-CSS – Custom styles
-
-JavaScript – Functionality and API interaction
-
-Bootstrap – Responsive UI components
-
-🎯 Purpose
-This project serves as a demonstration of API integration using vanilla JavaScript. It simulates a basic social media experience, focusing on user interaction, data fetching, and responsive design.
+This project is a simple demonstration of API integration using vanilla JavaScript.  
+It provides core social features in a lightweight, clean interface.
