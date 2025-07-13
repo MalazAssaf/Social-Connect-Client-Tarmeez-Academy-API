@@ -1,6 +1,11 @@
 # 🌐 Social Connect  
 *A Simple Front-End Client for Tarmeez Academy API*
 
+## 🔗 Live Demo
+
+Check out the live demo here:  
+👉 [https://68741ba1fdd9cf3dab8ee4a1--cheery-rugelach-9fe8db.netlify.app/](https://68741ba1fdd9cf3dab8ee4a1--cheery-rugelach-9fe8db.netlify.app/)
+
 ## 📖 Overview
 
 **Social Connect** is a responsive front-end web application built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
