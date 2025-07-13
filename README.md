@@ -8,13 +8,15 @@ Check out the live demo here:
 
 ## 📖 Overview
 
-**Social Connect** is a responsive front-end web application built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.  
+**Social Connect** is a responsive front-end web application built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Axios**.  
 It connects to the [Tarmeez Academy API](https://tarmeezacademy.com/api/v1) and allows users to:
 
 - Register and log in  
 - Create and view posts  
 - Comment on others' posts  
 - View user profiles  
+
+All API requests are handled using **Axios**, a promise-based HTTP client for easier and cleaner communication with the backend.
 
 ## 🚀 Features
 
@@ -36,10 +38,11 @@ It connects to the [Tarmeez Academy API](https://tarmeezacademy.com/api/v1) and 
 
 - **HTML** – Page structure  
 - **CSS** – Custom styling  
-- **JavaScript** – API interaction and logic  
+- **JavaScript** – Logic and interactivity  
+- **Axios** – Simplified HTTP requests  
 - **Bootstrap** – Responsive UI framework  
 
 ## 🎯 Purpose
 
-This project is a simple demonstration of API integration using vanilla JavaScript.  
+This project is a simple demonstration of API integration using vanilla JavaScript and Axios.  
 It provides core social features in a lightweight, clean interface.
